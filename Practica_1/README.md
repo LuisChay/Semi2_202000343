@@ -4,14 +4,18 @@
 
 ## MODELO WAREHOUSE
 
-El modelo warehouse se compone de 5 tablas principales, las cuales son:
-- Continents
-- Airports
-- Passengers
-- Flights
-- PassengerFlights
+El modelo warehouse usa el modelo de estrella, en el cual se tiene una tabla de hechos y varias tablas de dimensiones. En este caso se tienen las siguientes tablas:
+ 
+ 1. Tabla de hechos: 
 
-Usando el modelo de estrella, la tabla de passengers es la tabla de hechos y, y las demas tablas son las tablas de dimensiones
+- PassengerFlights: Es la tabla central que registra los eventos de pasajeros en vuelos.
+
+2. Tablas de dimensiones:
+- Passengers: Contiene información sobre los pasajeros.
+- Flights: Contiene información sobre los vuelos.
+- Airports: Contiene información sobre los aeropuertos.
+- Continents: Contiene información sobre los continentes.
+
 ![texto_alternativo](modelo.png)
 
 
