@@ -1,0 +1,39 @@
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'proyectosemi2.tempcomp' doesn't exist
+   en MySql.Data.MySqlClient.MySqlStream.<ReadPacketAsync>d__30.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.NativeDriver.<GetResultAsync>d__45.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.Driver.<GetResultAsync>d__85.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.Driver.<NextResultAsync>d__84.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   en ST_61d56bcf25a4411085fc19c66a132ed8.ScriptMain.Main()
