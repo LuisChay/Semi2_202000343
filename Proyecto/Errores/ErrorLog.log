@@ -1,39 +1,10 @@
-MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'proyectosemi2.tempcomp' doesn't exist
-   en MySql.Data.MySqlClient.MySqlStream.<ReadPacketAsync>d__30.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
-   en MySql.Data.MySqlClient.NativeDriver.<GetResultAsync>d__45.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
-   en MySql.Data.MySqlClient.Driver.<GetResultAsync>d__85.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
-   en MySql.Data.MySqlClient.Driver.<NextResultAsync>d__84.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
-   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
-   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
---- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
-   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
-   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
-   en ST_61d56bcf25a4411085fc19c66a132ed8.ScriptMain.Main()
+System.Data.SqlClient.SqlException (0x80131904): There is already an object named 'TempComp' in the database.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en ST_887740d797c2462f92dbb296206971f3.ScriptMain.Main()
+ClientConnectionId:eebce75d-3061-4ac0-ae22-4efd729cf244
+Error Number:2714,State:6,Class:16

@@ -21,15 +21,8 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Project.params [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\U\\wDecimo Semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto\\Proyecto\\Proyecto\\Project.params",
-              "RelativeDocumentMoniker": "Proyecto\\Project.params",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\U\\wDecimo Semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto\\Proyecto\\Proyecto\\Project.params [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto\\Project.params [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-27T04:02:45.806Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
             },
             {
               "$type": "Bookmark",
@@ -48,8 +41,16 @@
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.params [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\U\\wDecimo Semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto\\Proyecto\\Proyecto\\Project.params",
+              "RelativeDocumentMoniker": "Proyecto\\Project.params",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\U\\wDecimo Semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto\\Proyecto\\Proyecto\\Project.params [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto\\Project.params [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T04:02:45.806Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
