@@ -12,46 +12,47 @@ DROP TABLE IF EXISTS TempVent;
 DROP TABLE IF EXISTS TempComp;
 
 -- Create the TempComp table
-CREATE TABLE TempComp (
-    Fecha DATE,
-    CodProveedor VARCHAR(10),
-    NombreProveedor VARCHAR(255),
-    DireccionProveedor VARCHAR(255),
-    NumeroProveedor VARCHAR(20),
-    WebProveedor VARCHAR(255),
-    CodProducto VARCHAR(20),
-    NombreProducto VARCHAR(255),
-    MarcaProducto VARCHAR(255),
-    Categoria VARCHAR(100),
-    SodSuSursal VARCHAR(20),
-    NombreSucursal VARCHAR(255),
-    DireccionSucursal VARCHAR(255),
-    Region VARCHAR(100),
-    Departamento VARCHAR(100),
-    Unidades INT,
-    CostoU DECIMAL(18, 2)
+CREATE TABLE IF NOT EXISTS TempComp
+(
+    Fecha VARCHAR(15),
+    CodProveedor VARCHAR(15),
+    NombreProveedor VARCHAR(100),
+    DireccionProveedor VARCHAR(200),
+    NumeroProveedor VARCHAR(15),
+    WebProveedor VARCHAR(2),
+    CodProducto VARCHAR(15),
+    NombreProducto VARCHAR(100),
+    MarcaProducto VARCHAR(50),
+    Categoria VARCHAR(50),
+    SodSuSucursal VARCHAR(50),
+    NombreSucursal VARCHAR(50),
+    DireccionSucursal VARCHAR(200),
+    Region VARCHAR(50),
+    Departamento VARCHAR(50),
+    Unidades VARCHAR(20),
+    CostoU VARCHAR(20)
 );
 
--- Create the TempVent table
-CREATE TABLE TempVent (
-    Fecha DATE,
-    CodigoCliente VARCHAR(10),
-    NombreCliente VARCHAR(255),
-    TipoCliente VARCHAR(100),
-    DireccionCliente VARCHAR(255),
-    NumeroCliente VARCHAR(20),
-    CodVendedor VARCHAR(10),
-    NombreVendedor VARCHAR(255),
-    Vacacionista TEXT,  -- Modified to accept any data type (use TEXT instead of NVARCHAR(MAX))
-    CodProducto VARCHAR(20),
-    NombreProducto VARCHAR(255),
-    MarcaProducto VARCHAR(255),
-    Categoria VARCHAR(100),
-    SodSuSursal VARCHAR(20),
-    NombreSucursal VARCHAR(255),
-    DireccionSucursal VARCHAR(255),
-    Region VARCHAR(100),
-    Departamento VARCHAR(100),
-    Unidades INT,
-    PrecioUnitario DECIMAL(18, 2)
-);
+CREATE TABLE IF NOT EXISTS TempVent
+(
+    Fecha VARCHAR(15),
+    CodCliente VARCHAR(15),
+    NombreCliente VARCHAR(100),
+    TipoCliente VARCHAR(50),
+    DireccionCliente VARCHAR(200),
+    NumeroCliente VARCHAR(15),
+    CodVendedor VARCHAR(15),
+    NombreVendedor VARCHAR(100),
+    Vacacionista VARCHAR(5),
+    CodProducto VARCHAR(15),
+    NombreProducto VARCHAR(100),
+    MarcaProducto VARCHAR(50),
+    Categoria VARCHAR(50),
+    SodSuSucursal VARCHAR(50),
+    NombreSucursal VARCHAR(50),
+    DireccionSucursal VARCHAR(200),
+    Region VARCHAR(50),
+    Departamento VARCHAR(50),
+    Unidades VARCHAR(20),
+    PrecioU VARCHAR(20)
+)
