@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\Reportes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172E6AA1-CDD0-47E2-8134-C533CD28771A}|Reportes.rptproj|C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\Reportes\\Venta_Reporte1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{172E6AA1-CDD0-47E2-8134-C533CD28771A}|Reportes.rptproj|solutionrelative:Venta_Reporte1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172E6AA1-CDD0-47E2-8134-C533CD28771A}|Reportes.rptproj|C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\Reportes\\Compra_Reporte1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{172E6AA1-CDD0-47E2-8134-C533CD28771A}|Reportes.rptproj|solutionrelative:Compra_Reporte1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venta_Reporte1.rdl [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\Reportes\\Venta_Reporte1.rdl",
+              "RelativeDocumentMoniker": "Venta_Reporte1.rdl",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\Reportes\\Venta_Reporte1.rdl [Dise\u00F1o]",
+              "RelativeToolTip": "Venta_Reporte1.rdl [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T05:28:19.025Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compra_Reporte1.rdl [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\Reportes\\Compra_Reporte1.rdl",
+              "RelativeDocumentMoniker": "Compra_Reporte1.rdl",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\Reportes\\Compra_Reporte1.rdl [Dise\u00F1o]",
+              "RelativeToolTip": "Compra_Reporte1.rdl [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T04:54:26.332Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
