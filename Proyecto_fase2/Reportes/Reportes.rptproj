@@ -51,7 +51,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Report Include="Compra_Reporte1.rdl" />
+    <Report Include="Compra_Reporte2.rdl" />
+    <Report Include="Compra_Reporte3.rdl" />
     <Report Include="Venta_Reporte1.rdl" />
+    <Report Include="Venta_Reporte2.rdl" />
+    <Report Include="Venta_Reporte3.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>

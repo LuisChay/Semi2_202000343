@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\COMPRAS.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|solutionrelative:COMPRAS.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\COMPRAS.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|solutionrelative:COMPRAS.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\VENTAS.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|solutionrelative:VENTAS.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\VENTAS.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
       "RelativeMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|solutionrelative:VENTAS.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\COMPRAS.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|solutionrelative:COMPRAS.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBB5CBD9-3C96-47A6-AD6E-B493B12E301C}|FASE2.dwproj|C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Tiempo 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,67 +70,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VENTAS.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\VENTAS.dsv",
+              "RelativeDocumentMoniker": "VENTAS.dsv",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\VENTAS.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "VENTAS.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-20T23:24:24.577Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "COMPRAS.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\COMPRAS.dsv",
+              "RelativeDocumentMoniker": "COMPRAS.dsv",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\COMPRAS.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "COMPRAS.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T21:34:48.043Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "COMPRAS.cube [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\COMPRAS.cube",
               "RelativeDocumentMoniker": "COMPRAS.cube",
               "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\COMPRAS.cube [Dise\u00F1o]",
               "RelativeToolTip": "COMPRAS.cube [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:32:50.446Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-19T04:32:50.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dim Sucursal 1.dim [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Sucursal 1.dim",
-              "RelativeDocumentMoniker": "Dim Sucursal 1.dim",
-              "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Sucursal 1.dim [Dise\u00F1o]",
-              "RelativeToolTip": "Dim Sucursal 1.dim [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:32:06.467Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Dim Producto 1.dim [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Producto 1.dim",
               "RelativeDocumentMoniker": "Dim Producto 1.dim",
               "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Producto 1.dim [Dise\u00F1o]",
               "RelativeToolTip": "Dim Producto 1.dim [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:31:59.929Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-19T04:31:59.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Dim Tiempo.dim [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Tiempo.dim",
               "RelativeDocumentMoniker": "Dim Tiempo.dim",
               "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Tiempo.dim [Dise\u00F1o]",
               "RelativeToolTip": "Dim Tiempo.dim [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:29:29.833Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-19T04:29:29.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Dim Tiempo 1.dim [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Tiempo 1.dim",
-              "RelativeDocumentMoniker": "Dim Tiempo 1.dim",
-              "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Tiempo 1.dim [Dise\u00F1o]",
-              "RelativeToolTip": "Dim Tiempo 1.dim [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:30:18.93Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "VENTAS.cube [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\VENTAS.cube",
               "RelativeDocumentMoniker": "VENTAS.cube",
@@ -135,62 +140,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Dim Sucursal 1.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Sucursal 1.dim",
+              "RelativeDocumentMoniker": "Dim Sucursal 1.dim",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Sucursal 1.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Sucursal 1.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T04:32:06.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Tiempo 1.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Tiempo 1.dim",
+              "RelativeDocumentMoniker": "Dim Tiempo 1.dim",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Tiempo 1.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Tiempo 1.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T04:30:18.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Dim Vendedor.dim [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Vendedor.dim",
               "RelativeDocumentMoniker": "Dim Vendedor.dim",
               "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Vendedor.dim [Dise\u00F1o]",
               "RelativeToolTip": "Dim Vendedor.dim [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:31:54.367Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-19T04:31:54.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Dim Cliente.dim [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Cliente.dim",
               "RelativeDocumentMoniker": "Dim Cliente.dim",
               "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Cliente.dim [Dise\u00F1o]",
               "RelativeToolTip": "Dim Cliente.dim [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:31:48.549Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-19T04:31:48.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Dim Sucursal.dim [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Sucursal.dim",
               "RelativeDocumentMoniker": "Dim Sucursal.dim",
               "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Sucursal.dim [Dise\u00F1o]",
               "RelativeToolTip": "Dim Sucursal.dim [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:31:41.433Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-19T04:31:41.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Dim Producto.dim [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Producto.dim",
               "RelativeDocumentMoniker": "Dim Producto.dim",
               "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Producto.dim [Dise\u00F1o]",
               "RelativeToolTip": "Dim Producto.dim [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:29:38.795Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-19T04:29:38.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Dim Proveedor.dim [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Proveedor.dim",
               "RelativeDocumentMoniker": "Dim Proveedor.dim",
               "ToolTip": "C:\\Users\\Luis\\Documents\\Luis\\U\\oDecimo semestre\\Semi\\Lab\\Semi2_202000343\\Proyecto_fase2\\FASE2\\Dim Proveedor.dim [Dise\u00F1o]",
               "RelativeToolTip": "Dim Proveedor.dim [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T04:29:37.374Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-19T04:29:37.374Z"
             }
           ]
         }

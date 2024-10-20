@@ -26,16 +26,16 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>HA2Zhde/jb9ouHcrukQdPLXUze8=18/10/2024 10:27:2218/10/2024 10:25:13</TimeStamp>
+        <TimeStamp>X/XfXUAq2FNku9Kw4+g7lAio3YE=18/10/2024 10:27:4418/10/2024 10:24:47</TimeStamp>
         <ID>
-          <String>VistaCompras</String>
+          <String>VistaVentas</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>X/XfXUAq2FNku9Kw4+g7lAio3YE=18/10/2024 10:27:4418/10/2024 10:24:47</TimeStamp>
+        <TimeStamp>HA2Zhde/jb9ouHcrukQdPLXUze8=18/10/2024 10:27:2218/10/2024 10:25:13</TimeStamp>
         <ID>
-          <String>VistaVentas</String>
+          <String>VistaCompras</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
@@ -103,7 +103,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>nuArMhfhCQE6VCjI9XUMO3CKHZw=18/10/2024 10:32:4118/10/2024 10:28:44qkHl9i0qC64CmYZt+zjehnhcVk0=18/10/2024 10:28:4418/10/2024 10:28:44</TimeStamp>
+        <TimeStamp>nuArMhfhCQE6VCjI9XUMO3CKHZw=19/10/2024 03:37:5218/10/2024 10:28:44qkHl9i0qC64CmYZt+zjehnhcVk0=18/10/2024 10:28:4418/10/2024 10:28:44</TimeStamp>
         <ID>
           <String>COMPRAS</String>
         </ID>
@@ -127,5 +127,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2024-10-19T04:36:27.986667Z</LastDeployed>
+  <LastDeployed>2024-10-19T21:46:20.156667Z</LastDeployed>
 </DeploymentSnapshot>
